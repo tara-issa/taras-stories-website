@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tara's Stories</title>
+</head>
+<body>
+    <header>
+        <h1>Tara's Stories</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Categories</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main-content">
+        <article>
+            <h2>Latest Story Title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</p>
+            <a href="#">Read more</a>
+        </article>
+
+        <!-- More articles go here -->
+
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Tara's Stories. All rights reserved.</p>
+    </footer>
+</body>
+</html>
